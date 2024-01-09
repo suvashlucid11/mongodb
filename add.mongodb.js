@@ -1,0 +1,6 @@
+use("broadway")
+// db.students.find()
+// db.students.insertOne({name:"suvash",id:23})
+// db.students.find()
+// db.students.insertOne({name:"manish",id:34})
+db.students.find()
